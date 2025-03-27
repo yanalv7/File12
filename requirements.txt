@@ -1,14 +1,1 @@
-Crypto.Random
-Crypto.Cipher
-kivy.properties
-kivy.core.window
-kivy.clock
-kivy.uix.progressbar
-kivy.uix.image
-kivy.uix.button
-kivy.uix.textinput
-kivy.uix.label
-kivy.uix.gridlayout
-kivy.uix.boxlayout
-kivy.uix.screenmanager
-kivy.app
+pycryptodome
