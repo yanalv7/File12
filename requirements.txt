@@ -1,1 +1,2 @@
-pycryptodome
+kivy
+kivymd
